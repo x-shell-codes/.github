@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/x-shell-codes/.github/master/assets/x-shell-code-logo.svg" width="280" alt="x-shell-codes" />
+<img src="https://raw.githubusercontent.com/x-shell-codes/.github/master/assets/x-shell-codes-logo.svg" width="280" alt="x-shell-codes" />
 
 **Single-purpose shell scripts for Ubuntu server provisioning.**
 Open the file. Read it. Run it. Move on.
