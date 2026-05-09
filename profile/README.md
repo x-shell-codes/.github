@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/x-shell-codes.png" width="120" alt="x-shell-codes" />
-<!-- TODO: replace with assets/logo.svg when ready -->
+<img src="https://raw.githubusercontent.com/x-shell-codes/.github/master/assets/logo.png" width="280" alt="x-shell-codes" />
 
 # x-shell-codes
 
