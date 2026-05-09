@@ -2,8 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/x-shell-codes/.github/master/assets/logo.png" width="280" alt="x-shell-codes" />
 
-# x-shell-codes
-
 **Single-purpose shell scripts for Ubuntu server provisioning.**
 Open the file. Read it. Run it. Move on.
 
